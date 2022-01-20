@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@vk-io/hear": "^1.1.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "node-qiwi-api": "^2.2.1",
+    "opencage-api-client": "^1.0.0",
+    "vk-io": "^4.4.0",
+    "vk-io-question": "^3.1.1"
+  },
+  "scripts": {
+    "install": "scripts installed"
+  }
+}
